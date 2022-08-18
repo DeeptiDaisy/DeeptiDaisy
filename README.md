@@ -1,8 +1,14 @@
 - 👋 Hi, I’m @DeeptiDaisy.
 - 👀 I’m interested in Html, Css, Javascript and Webdevelopment.
 - 🌱 I’m currently learning Webdevelopment.
-- 💞️ I’m looking to collaborate on Angular.
+- 💞️ I’m looking to collaborate on Web Development.
 - 📫 you can  reach me by hashnode deeptidubey.hashnode.dev
+ <hr/>
+ Skills ⚒️
+ 
+ 
+ 
+ 
 >  [This is my portfolio website click on it to see](https://deeptiportfolio-websites.netlify.app/)
 Hey , I'm Deepti!
 About Me 🚀
