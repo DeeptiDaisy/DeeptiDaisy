@@ -4,6 +4,12 @@
 - 💞️ I’m looking to collaborate on Angular.
 - 📫 you can  reach me by hashnode deeptidubey.hashnode.dev
 >  [This is my portfolio website click on it to see](https://deeptiportfolio-websites.netlify.app/)
+Hey , I'm Deepti!
+About Me 🚀
+🎓 I’m working at Capgemini.
+👨‍💻 I am passionate about Web Dev, problem solving, Spirituality & I enjoy learning new things.
+⚡ Fun fact: I love reading and meditating.
+
 
 <!---
 DeeptiDaisy/DeeptiDaisy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
