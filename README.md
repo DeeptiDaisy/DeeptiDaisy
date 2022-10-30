@@ -18,9 +18,12 @@
 
 # Connect with me:
 
-[linkden](https://linkedin.com/in/deepti-dubey-83101220b)       
+[linkden](https://linkedin.com/in/deepti-dubey-83101220b)
+
 [Hashnode](https://deeptidubey.hashnode.dev/)
+
 [Instagram](https://www.instagram.com/deepti_webdev/)
+
 [Twitter](https://twitter.com/DeeptiD70928388)
 
 [Findcodder](https://www.findcoder.io/u/deepti)
