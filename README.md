@@ -44,8 +44,7 @@ About Me 🚀
 
 - 👨‍💻 I am passionate about Web Dev, problem solving, Spirituality & I enjoy learning new things.
 
-- ⚡ Fun fact: 
-- 
+- ⚡ Fun fact:  
 - I love reading and meditating.
 
 
