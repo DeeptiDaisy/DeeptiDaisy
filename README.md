@@ -18,10 +18,10 @@
 
 # Connect with me:
 
-[linkden](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJNOS5vvxdlJdI8nOP7v5ey2gfykyHl4v6EJFdSSrp2Q&s)       
-[Hashnode](https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress)
-
-[Instagram](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)
+[linkden](https://linkedin.com/in/deepti-dubey-83101220b)       
+[Hashnode](https://deeptidubey.hashnode.dev/)
+[Instagram](https://www.instagram.com/deepti_webdev/)
+[Twitter](https://twitter.com/DeeptiD70928388)
 
 [Findcodder](https://www.findcoder.io/u/deepti)
 
@@ -37,11 +37,13 @@
  
 About Me 🚀
 
-- 🎓 I’m working at Capgemini.
+- 🎓 I’m working in Capgemini.
 
 - 👨‍💻 I am passionate about Web Dev, problem solving, Spirituality & I enjoy learning new things.
 
-- ⚡ Fun fact: I love reading and meditating.
+- ⚡ Fun fact: 
+- 
+- I love reading and meditating.
 
 
  
