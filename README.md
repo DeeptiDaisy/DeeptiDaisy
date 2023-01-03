@@ -47,6 +47,7 @@ About Me 🚀
 - ⚡ Fun fact:  I love reading and meditating.
 
 HTML CSS projects:-
+
 [Acters website](https://github.com/DeeptiDaisy/Ineuron01)
 
 [Restaurent website](https://github.com/DeeptiDaisy/LcoProject02)
@@ -85,6 +86,7 @@ Clone projects
 
 
 JavaScript projects:-
+
 [Count Down](https://github.com/DeeptiDaisy/CountDown)
 
 [Qr code genrator](https://github.com/DeeptiDaisy/QRcodegenerator)
