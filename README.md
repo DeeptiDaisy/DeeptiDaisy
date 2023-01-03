@@ -47,35 +47,35 @@ About Me 🚀
 - ⚡ Fun fact:  I love reading and meditating.
 
 HTML CSS projects:-
-[one](https://github.com/DeeptiDaisy/Ineuron01)
+[Acters website](https://github.com/DeeptiDaisy/Ineuron01)
 
-[2](https://github.com/DeeptiDaisy/LcoProject02)
+[Restaurent website](https://github.com/DeeptiDaisy/LcoProject02)
 
-[3](https://github.com/DeeptiDaisy/Justice)
+[Justice page website](https://github.com/DeeptiDaisy/Justice)
 
-[4](https://github.com/DeeptiDaisy/LcoProject04)
+[Crush the comptetion](https://github.com/DeeptiDaisy/LcoProject04)
 
-[5](https://github.com/DeeptiDaisy/LcoProject-05)
+[Lets build better tomarrow Token app](https://github.com/DeeptiDaisy/LcoProject-05)
 
-[6](https://github.com/DeeptiDaisy/LcoProject-06)
+[Monstera](https://github.com/DeeptiDaisy/LcoProject-06)
 
-[7](https://github.com/DeeptiDaisy/Project-07)
+[Wireless Headphones](https://github.com/DeeptiDaisy/Project-07)
 
-[8](https://github.com/DeeptiDaisy/WebDesign-08)
+[Web Design](https://github.com/DeeptiDaisy/WebDesign-08)
 
-[9](https://github.com/DeeptiDaisy/Developer-page09)
+[Company website](https://github.com/DeeptiDaisy/Developer-page09)
 
-[10](https://github.com/DeeptiDaisy/Interior_design)
+[Interior Design](https://github.com/DeeptiDaisy/Interior_design)
 
-[11](https://github.com/DeeptiDaisy/Web-services-11)
+[Hoisting website](https://github.com/DeeptiDaisy/Web-services-11)
 
-[12](https://github.com/DeeptiDaisy/Web-designing-12)
+[Empowering our business](https://github.com/DeeptiDaisy/Web-designing-12)
 
-[13](https://github.com/DeeptiDaisy/Project-13)
+[Codext one of the best system in SAAS](https://github.com/DeeptiDaisy/Project-13)
 
-[14](https://github.com/DeeptiDaisy/LcoProject-14)
+[Creativity photography](https://github.com/DeeptiDaisy/LcoProject-14)
 
-[15](https://github.com/DeeptiDaisy/Lcoproject-15)
+[Portfolio Website](https://github.com/DeeptiDaisy/Lcoproject-15)
 
 Clone projects
 
@@ -85,22 +85,22 @@ Clone projects
 
 
 JavaScript projects:-
-[1](https://github.com/DeeptiDaisy/CountDown)
+[Count Down](https://github.com/DeeptiDaisy/CountDown)
 
-[2](https://github.com/DeeptiDaisy/QRcodegenerator)
+[Qr code genrator](https://github.com/DeeptiDaisy/QRcodegenerator)
 
-[3](https://github.com/DeeptiDaisy/Password-genrator)
+[Password genrator](https://github.com/DeeptiDaisy/Password-genrator)
 
-[4](https://github.com/DeeptiDaisy/Accordian)
+[Accordian](https://github.com/DeeptiDaisy/Accordian)
 
-[5](https://github.com/DeeptiDaisy/Naming-Conversion)
+[Naming Conversion](https://github.com/DeeptiDaisy/Naming-Conversion)
 
-[6](https://github.com/DeeptiDaisy/Jokes-generator)
+[Jokes Generator](https://github.com/DeeptiDaisy/Jokes-generator)
 
 [7]()
 
 React project:-
 
-[1](https://github.com/DeeptiDaisy/tiktoktoereactjs)
+[Tiktoktoe](https://github.com/DeeptiDaisy/tiktoktoereactjs)
 
  
