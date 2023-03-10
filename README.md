@@ -8,14 +8,6 @@
 
 - 👯 I’m looking to collaborate on JavaScript/React.
 
-- 💬 Ask me about **Web Development**
-
-- 📝 I regularly write articles on https://deeptidubey.hashnode.dev/
-
-- 📫 How to reach me dubeydeepti1996@gmail.com
-
-- 👨‍💻 All of my projects are available at https://www.findcoder.io/u/deepti
-
 # Connect with me:
 
 [linkden](https://linkedin.com/in/deepti-dubey-83101220b)
