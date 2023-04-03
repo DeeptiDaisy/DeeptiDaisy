@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Deepti Dubey.
+- 👋 Hi, I’m A passionate full Stack JavaScript developer in expertise in Frontend Development
 
 - 🌱 I’m currently learning Full Stack Web Development by Ineuron.ai
 
-- 👀 I’m interested in Html, Css, Javascript and Webdevelopment.
+- 👀  I Have Knowledge of React.js, Mongodb, HTML, css, Node.js, dotnet.
 
-- 🌱 I’m currently learning Webdevelopment.
+- 🌱 Know about my experiences: I have 1 year of experience in Frontend Development.
 
-- 👯 I’m looking to collaborate on JavaScript/React.
 
 # Connect with me:
 
@@ -91,10 +90,10 @@ JavaScript projects:-
 
 [Jokes Generator](https://github.com/DeeptiDaisy/Jokes-generator)
 
-[7]()
+[7](https://github.com/DeeptiDaisy/Bargraph)
 
 React project:-
 
 [Tiktoktoe](https://github.com/DeeptiDaisy/tiktoktoereactjs)
-
+[House buyer app](https://github.com/DeeptiDaisy/House-buyer-app)
  
