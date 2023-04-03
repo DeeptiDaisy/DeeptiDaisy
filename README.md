@@ -1,8 +1,8 @@
 - 👋 Hi, I’m A passionate full Stack JavaScript developer in expertise in Frontend Development
 
-- 🌱 I’m currently learning Full Stack Web Development by Ineuron.ai
+- 🌱 I’m working on mega project.
 
-- 👀  I Have Knowledge of React.js, Mongodb, HTML, css, Node.js, dotnet.
+- 👀  I Have Knowledge of React.js, Mongodb, HTML, css, Node.js, dotnet(C#), PostgreSQL, SQL server.
 
 - 🌱 Know about my experiences: I have 1 year of experience in Frontend Development.
 
@@ -90,7 +90,7 @@ JavaScript projects:-
 
 [Jokes Generator](https://github.com/DeeptiDaisy/Jokes-generator)
 
-[7](https://github.com/DeeptiDaisy/Bargraph)
+[Bargarph application with json api](https://github.com/DeeptiDaisy/Bargraph)
 
 React project:-
 
