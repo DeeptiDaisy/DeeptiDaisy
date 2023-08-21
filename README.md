@@ -13,6 +13,7 @@
 <p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Chatgpt <br>🎯 Goals: Want to become expertise in my tech stack<br>🎲 Fun fact: love to explore new things</p>
 
 ###
+https://deeptiportfolio-websites.netlify.app/
 
 <h2 align="left">I code with</h2>
 
